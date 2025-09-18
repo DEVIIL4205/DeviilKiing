@@ -1,11 +1,11 @@
 <!-- Header -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3c00,100:00ffe7&height=250&section=header&text=𝐍𝐚𝐒𝐢𝐢𝐫 𝐀𝐥𝐢𝐢 𝐊𝐢𝐢𝐧𝐠%&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3c00,100:00ffe7&height=250&section=header&text=𝐍𝐚𝐒𝐢𝐢𝐫%&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=🐬+im+NaSiir+Alii;🚀+simple++%7C+developer;🔥+My+Home+Dhaka+gazipur" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=🐬+im+NaSiir+Alii;🚀+simple++%7C+developer;🔥+My+Home+karachiw+Pakistan" />
 </p>
 
 ---
